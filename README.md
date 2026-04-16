@@ -56,4 +56,4 @@ python filename.py
 ---
 
 ## 👤 Author
-Prathamesh Dattatray Wavhal
+Prathamesh Wavhal

@@ -45,7 +45,7 @@ NLP-Lab/
 ## 🚀 How to Run
 
 1. Clone repo  
-git clone https://github.com/your-username/NLP-Lab.git  
+git clone https://github.com/pw-5214/NLP-Lab.git  
 
 2. Install requirements  
 pip install -r requirements.txt  
